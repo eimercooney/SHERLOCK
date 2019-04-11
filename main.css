@@ -40,3 +40,12 @@ h1 {
   margin: 6px 4px;
   cursor:pointer;
 }
+
+    .footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: whitesmoke;
+  text-align: center;
+}
